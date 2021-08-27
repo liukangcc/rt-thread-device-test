@@ -8,7 +8,7 @@
 
 ## How to use
 
-1. git pull https://github.com/liukangcc/rt-thread-bsp-drivers-test.git
+1. clone 本仓库
 2. pip install pyusb
 3. 在启动脚本之前，确保 winusb 设备连接正常，PC 可以识别到 rt-thread USB 设备
 4. 运行脚本：`python main.py`
