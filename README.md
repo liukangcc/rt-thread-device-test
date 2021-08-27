@@ -1,4 +1,4 @@
-#drivers-test
+# device-test
 
 一个 c 代码与 python 结合，用于测试 rt-thread/bsp 目录下各个开发板的 device 驱动功能是否正常。此仓库存放 python 端代码。
 
